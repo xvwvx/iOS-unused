@@ -1,4 +1,6 @@
 # coding=utf-8
+# brew install the_silver_searcher
+
 import glob
 import os
 import re
